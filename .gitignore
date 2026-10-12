@@ -1,0 +1,29 @@
+## Visual Studio temporary and cache files
+.vs/
+**/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+## Build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+## Other build artifacts
+*.pdb
+*.dll
+*.exe
+
+## NuGet Packages
+*.nupkg
+packages/
+
+## Test & crash reports
+TestResults/
+*.crashdump
